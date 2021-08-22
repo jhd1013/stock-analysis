@@ -58,5 +58,6 @@ For the refactored code I followed the challenge instructions closely, using a h
     Even for a veteran programmer, the very first block of code written is usually not the final code they use.  Every refactoring iteration improves understanding and contributes to learning, which typically results in much better code.
 
 - How do these pros and cons apply to refactoring the original VBA script?
+    
     For the specific pair of examples provided in this summmary, the original code is actually faster and more memory efficient than the refactored code.  However, if the original code were identical to what was done as part of module 2, then the refactored code would be faster.  In both cases, writing the code two different ways and comparing their performance contributed substantially to learning the fundamentals of VBA for Excel.
 
